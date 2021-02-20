@@ -7,6 +7,9 @@
  [登录界面二](https://htmlpreview.github.io/?https://github.com/zhupengfeivip/vue-mobile-login-demo1/master/public/vant-button.html)
 
 
+https://htmlpreview.github.io/?https://github.com/zhupengfeivip/vue-mobile-login-demo1/master/public/test1.html
+
+
 ## Project setup
 ```
 npm install
