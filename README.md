@@ -2,7 +2,7 @@
 
 
 
-页面效果展示 [登录界面一](https://htmlpreview.github.io/?https://github.com/zhupengfeivip/vue-mobile-login-demo1/master/dist/login1.html).
+页面效果展示 [登录界面一](https://htmlpreview.github.io/?https://github.com/zhupengfeivip/vue-mobile-login-demo1/master/public/login1.html).
 
 
 
